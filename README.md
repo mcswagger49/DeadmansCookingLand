@@ -1,7 +1,9 @@
 # DeadmansCookingLand
 "a deadmans cooking is still food" -deadman jonesy
+
 Summary
 The deadman is a crazy chef who wanted to cook for everyone and anyone. He loved when people ate his food and smiled. Yet, He never got enough satisfaction from that because he wanted the entire world to enjoy his cooking. Sadly, he’s only human which makes his time on earth not very long. So, he meets a crazy female scientist by chance, falls in love and marries her. Later he asks to help him become immortal. The lovebirds become immortal or “zombies” themselves and make the best restaurant in the entire world. The downside is that they lost their memory of cooking and not their love for each other.The  only way to remember cooking is to find the right ingredients of the deadmans old recipes.
+
 ![image](https://user-images.githubusercontent.com/8591904/110230313-1bd95700-7ede-11eb-8fff-5847ac6bdd88.png)
 
 My target audience will be Kid/Teenagers and Adults, etc.
