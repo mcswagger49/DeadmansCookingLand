@@ -7,7 +7,7 @@ The deadman is a crazy chef who wanted to cook for everyone and anyone. He loved
 
 ![image](https://user-images.githubusercontent.com/8591904/110230313-1bd95700-7ede-11eb-8fff-5847ac6bdd88.png)
 
-My target audience will be Kid/Teenagers and Adults, etc.
+My target audience will be Kid/Teenagers and Adults, etc. it will be able to be played on mobile devices for now.
 
 The mini-games in the app is similar to the orignal Candy Crush game. In this game there are many types of food and recipes to create. 3 basic recipes. By connecting the food ingredients you will get some points. If you score more the right amount points in 1 minute you win.
 
