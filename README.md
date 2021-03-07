@@ -22,8 +22,14 @@ LIBRARIES USED: The packages used are from free game arts and the program is and
 HOW TO RUN THE PROGRAM:
 
 1.Open the command prompt/app.
+
 2.Make sure the path is set properly.
+
 3.Unzip and Compile file using DeadmansCookingLand.
+
 4.Open Android Studio window to view DeadmansCookingLand application.
+
 5.Make sure that its the right file and all the class files of the program are in the same directory.
+
 6.Program should work perfectly fine.
+
